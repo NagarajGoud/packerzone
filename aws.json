@@ -4,8 +4,8 @@
 
         {
             "type": "amazon-ebs",
-            "access_key": "AKIAJE5TCIIBBAGX3A7A",
-            "secret_key": "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",
+            "access_key": "",
+            "secret_key": "",
             "region": "us-east-2",
             "source_ami": "ami-82f4dae7",
             "instance_type": "t2.micro",
